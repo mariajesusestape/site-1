@@ -1,0 +1,34 @@
+h1{
+	color: #30967b;
+}
+body{
+	background-color: #a89f72;
+	background-image: url(fondo.jpg);
+	background-repeat: no-repeat;
+	background-position: right; bottom;
+	background-size: 100%;
+}
+.secondparagraph {
+	color: #890011;
+}
+p{
+	colour: ;
+}
+h3{
+	color: #0e298c;
+	font-family: Verdana;
+	text-align: center;
+}
+img{
+	border-radius: 25px;
+}
+img:hover{
+	border-radius: 50px;
+}
+ul{
+	list-style-type: none;
+	background-color: #72b1cf;
+}
+li{
+	float: left;
+}
